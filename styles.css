@@ -1,0 +1,43 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    padding: 10%;
+    line-height: 1.5;
+}
+
+nav {
+    background-color: #333333;
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    padding-left: 10%;
+    padding-right:  10%;
+}
+
+.links {
+    text-align: right;
+    font-weight: bold;
+}
+
+a {
+    text-decoration: underline;
+    color: #ff0099;
+    text-transform: uppercase;
+    padding: 15px;
+}
+
+.intro {
+    margin: 0 uto;
+}
+
+.intro h1 {
+    font-size: xxx-large;
+}
+
+.intro h2 {
+    color: #ff0099;
+}
+
+.middle {
+    text-align: center;
+}
